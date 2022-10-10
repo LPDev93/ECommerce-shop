@@ -1,0 +1,12 @@
+	Admin
+=====================
+
+Usuario		= 	admin
+Password	= 	111
+=====================
+
+	Usuario
+=======================
+Usuario		= prueba
+Correo		= prueba@gmail.com
+Password	= 123
