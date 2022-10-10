@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Acerca del projecto
 
-[![01.png](https://i.postimg.cc/2L8n5NCG/01.png)](https://postimg.cc/2L8n5NCG)
+[![01.png](https://i.postimg.cc/Xq9LQnhR/01.png)](https://postimg.cc/2L8n5NCG)
 
 Sistema Web Full Stack | Front End | Back End utilizando tecnologías HTML, CSS, JS y PHP
 
@@ -105,17 +105,17 @@ You must require:
 
 Algunos pantallazos:
 
-[![01.png](https://i.postimg.cc/2L8n5NCG/01.png)](https://postimg.cc/2L8n5NCG)
-[![02.png](https://i.postimg.cc/cgcQZLG6/02.png)](https://postimg.cc/cgcQZLG6)
-[![03.png](https://i.postimg.cc/ts1tPbWm/03.png)](https://postimg.cc/ts1tPbWm)
-[![04.png](https://i.postimg.cc/zy9wFQkD/04.png)](https://postimg.cc/zy9wFQkD)
-[![05.png](https://i.postimg.cc/0bX0bjMw/05.png)](https://postimg.cc/0bX0bjMw)
-[![06.png](https://i.postimg.cc/7C03sNB3/06.png)](https://postimg.cc/7C03sNB3)
-[![07.png](https://i.postimg.cc/rKw9VxmT/07.png)](https://postimg.cc/rKw9VxmT)
-[![08.png](https://i.postimg.cc/5YJwZFGZ/08.png)](https://postimg.cc/5YJwZFGZ)
-[![09.png](https://i.postimg.cc/9zppHJc1/09.png)](https://postimg.cc/9zppHJc1)
-[![10.png](https://i.postimg.cc/pyxZSgMp/10.png)](https://postimg.cc/pyxZSgMp)
-[![11.png](https://i.postimg.cc/njK1z1BF/10.png)](https://postimg.cc/njK1z1BF)
+[![01.png](https://i.postimg.cc/Xq9LQnhR/01.png)](https://postimg.cc/2L8n5NCG)
+[![02.png](https://i.postimg.cc/sXkKYMnP/02.png)](https://postimg.cc/cgcQZLG6)
+[![03.png](https://i.postimg.cc/4xP8DNdZ/03.png)](https://postimg.cc/ts1tPbWm)
+[![04.png](https://i.postimg.cc/rpphMX04/04.png)](https://postimg.cc/zy9wFQkD)
+[![05.png](https://i.postimg.cc/t4pSvV92/05.png)](https://postimg.cc/0bX0bjMw)
+[![06.png](https://i.postimg.cc/QMnfM41y/06.png)](https://postimg.cc/7C03sNB3)
+[![07.png](https://i.postimg.cc/4Nz211RY/07.png)](https://postimg.cc/rKw9VxmT)
+[![08.png](https://i.postimg.cc/9MRJwdBF/08.png)](https://postimg.cc/5YJwZFGZ)
+[![09.png](https://i.postimg.cc/TY8Hm4F8/09.png)](https://postimg.cc/9zppHJc1)
+[![10.png](https://i.postimg.cc/c1tbvSDM/10.png)](https://postimg.cc/pyxZSgMp)
+[![11.png](https://i.postimg.cc/rm3Zfnpr/11.png)](https://postimg.cc/njK1z1BF)
 
 <p align="right">(<a href="#top">volver al inicio</a>)</p>
 
