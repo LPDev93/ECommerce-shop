@@ -125,6 +125,7 @@ Algunos pantallazos:
 - [x] Se ha añadido ReadMe
 - [x] Se ha añadido pantallazos
 - [x] Se ha añadido modo responsivo
+- [x] Se ha añadido shop_db.sql DB
 - [ ] Soporte Multi-lenguaje 
     - [ ] Inglés
 
